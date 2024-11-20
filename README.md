@@ -1,2 +1,5 @@
 # intermLM-step-by-step
-Practice for LLM
+
+书生浦语大模型学习笔记
+
+[教程](https://github.com/InternLM/Tutorial/tree/camp4)
